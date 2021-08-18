@@ -1,0 +1,26 @@
+{
+  "name": "content-management-systems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluemagic6/content-management-systems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluemagic6/content-management-systems/issues"
+  },
+  "homepage": "https://github.com/bluemagic6/content-management-systems#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquire": "^0.4.8",
+    "mysql2": "^2.3.0"
+  }
+}
